@@ -20,7 +20,7 @@ This repository contains a simple web application for managing your wishlist ite
 To run the application locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-`git clone [https://github.com/your-username/wishlist-todolist.git](https://github.com/Gozkybrain/Wishlist-Todolist)`
+`git clone https://github.com/Gozkybrain/Wishlist-Todolist`
 
 
 2. Open the `index.html` file in a web browser to interact with and explore the wishlist to-do list.
